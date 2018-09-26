@@ -1,0 +1,26 @@
+lab3 arthematic operations 
+>>> a=12
+>>> b=13
+>>> c=a+b
+>>> print(c)
+25
+>>> a=134 
+>>> b=12
+>>> c=a/b
+>>> print(c)
+11
+>>> a=100
+>>> b=12
+>>> c=a-b
+>>> print(c)
+88
+>>> a=13
+>>> b=12
+>>> c=a*b
+>>> print(c)
+156
+>>> c=a**b
+>>> print(c)
+23298085122481
+>>> 
+

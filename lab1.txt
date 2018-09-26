@@ -1,0 +1,10 @@
+sep 6 (lab 1 )
+----------------
+step 1 = created github account 
+step 2 = created my own repository 
+step 3 = learnt some linux commandes 
+step 4 = opened sublime editor using command (subl)
+step 5 = created a code to print (hello world)
+step 6 = saved the python file in the folder hemanth kori (IT) 
+step 7 = to see the saved file or to get into your directory use command (cd)
+step 8 = use gedit lab1.txt to create this readme file 
